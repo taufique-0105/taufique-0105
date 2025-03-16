@@ -26,14 +26,14 @@ const About = () => {
           <div className="flex-1">
             <p className="text-gray-300 text-lg mb-4">
               Hey there! 👋 I'm <span className="text-purple-400 font-bold">Taufique Alam Ansari</span>, a passionate 
-              Computer Science student with a strong interest in **full-stack development** and **problem-solving**. 
-              Currently pursuing my **B.Tech in Computer Science & Engineering** at **GIET, BPUT**.
+              Computer Science student with a strong interest in <strong>full-stack development</strong> and <strong>problem-solving.</strong>
+              Currently pursuing my <strong>B.Tech in Computer Science & Engineering</strong> at <strong>GIET, BPUT</strong>.
             </p>
 
             <p className="text-gray-300 text-lg mb-4">
-              I enjoy building **efficient, scalable, and user-friendly applications** using modern technologies like 
+              I enjoy building <strong>efficient, scalable, and user-friendly applications</strong> using modern technologies like 
               <span className="text-purple-400"> React, Express.js, MongoDB, and Java.</span> 
-              I'm also an active **competitive programmer** with a strong foundation in **DSA**.
+              I'm also an active <strong>competitive programmer</strong> with a strong foundation in <strong>DSA.</strong>
             </p>
 
             {/* Key Highlights */}
