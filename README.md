@@ -1,5 +1,3 @@
-Here’s a `README.md` file for your **portfolio website** with details on setup, features, and deployment.  
-
 ---
 
 # 🚀 Portfolio Website  
