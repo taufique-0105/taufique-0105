@@ -4,25 +4,32 @@
 ---
 
 ### 🚀 About Me
-- 🚀 Current Gig: Full Stack Developer at DeepSurge AI. I thrive on taking an idea from concept to a production-ready application.
-- 💡 Collaboration: Passionate about teaming up on impactful full-stack applications. Bring me your challenging project ideas!
+- 🚀 Current Gig: AI Engineer at DeepSurge AI. I thrive on taking an idea from concept to a production-ready application.
+- 💡 Collaboration: Passionate about teaming up on impactful Agentic full-stack applications. Bring me your challenging project ideas!
 - 🧠 On the Horizon: Deep diving into the world of AI Engineering! Learning how to effectively deploy and scale intelligent systems.
 - 🛑 My Motto: I love learning new things, even if a technical blocker always seems to be waiting around the corner. If you have a clever solution to a tough problem, I want to hear about it!
 ---
 
 ### 💼 Experience
-**SAP ISU Production Support Intern** @ PCON Utilities Pvt. Ltd.  
-`June 2024 - December 2024`  
-- Resolved critical utility system issues in SAP ISU modules
-- Collaborated with cross-functional teams to maintain 99.8% system uptime
+
+**AI Engineer** @ DeepSurge AI Pvt. Ltd.
+`Oct 2025 - Currently`
+- Leading the development of **ReasonIQ**, an advanced agentic system designed for intelligent and autonomous browser automation.
+- Building **RoadIQ**, a robust computer vision-based road detection system.
+- Designing and implementing scalable machine learning and deep learning pipelines, bridging the gap between raw data and production-ready AI applications.
 
 **Full Stack Developer** @ DeepSurge AI Pvt. Ltd.
-`July 2025 - Currently`
+`July 2025 - Sept 2025`
 - Engineered and maintained full-stack applications, building responsive user interfaces with React and high-performance RESTful APIs with FastAPI and Python.
 - Collaborated in a cross-functional team to successfully design, build, and deploy multiple live, user-facing projects from concept to production.
 - Implemented data-driven features by integrating Python libraries like pandas for data manipulation and XGBoost for predictive modeling.
 - Developed interactive geospatial features by processing GeoJSON data and visualizing it with Leaflet.
   
+**SAP ISU Production Support Intern** @ PCON Utilities Pvt. Ltd.  
+`June 2024 - December 2024`  
+- Resolved critical utility system issues in SAP ISU modules
+- Collaborated with cross-functional teams to maintain 99.8% system uptime
+
 ---
 
 
@@ -53,10 +60,6 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=taufique-0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
     alt="Taufique's GitHub Stats" 
-  /><br/>
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=taufique-0105&theme=dark&hide_border=false" 
-    alt="Taufique's GitHub Streak" 
   /><br/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufique-0105&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
